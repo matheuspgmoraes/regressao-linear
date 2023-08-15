@@ -1,0 +1,24 @@
+---
+title: "Regressão Linear"
+format: html
+editor: visual
+---
+
+## Regressão Linear
+
+  Regressão Linear é um método estatístico em que uma variável pode ser prevista a partir de uma relação com uma ou mais variáveis.É importante uma análise da das relações para que entender se de fato há relação entre uma variável e outra.
+  
+  Em um modelo básico de regressão linear, onde a função de regressão é linear, temos a seguinte expressão para prever a variável $Y$:
+  
+$Y_{i}= \beta_{0} +\beta_{1}X_{i} + \varepsilon_{1}$
+
+  Em que:
+  
+  $Y_{i}$ é valor da variável prevista no i caso
+  
+  $\beta_{0}$ e $\beta_{1}$ são os parâmetros 
+  
+  $X_{1}$ é o valor da constante, o valor da variável no $i$ caso
+  
+  $\varepsilon_{i}$ é o termo de erro aleatório
+
